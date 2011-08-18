@@ -8,8 +8,8 @@
 .main {
   position: absolute;
   left: 50%;
-  width: 400px;
-  margin-left: -200px;
+  width: 500px;
+  margin-left: -250px;
   top: -252px;
   text-align: center;
 }
@@ -17,13 +17,18 @@
 h1 {
   font-family: "Coustard", serif;
   font-weight: 400;
-  font-size: 4.2em;
+  font-size: 3.5em;
+  margin-top: 0;
 }
 
 p {
   font-family: "Arial", "Helvetica", "Gill Sans", "Lucida Grande", "Verdana", sans-serif;
+  color: #666;
 }
 
 a {
   text-decoration: none;
+  color: #000;
+  background: url(link_line_thin.jpg) no-repeat bottom right;
+  padding-bottom: 2px;
 }
