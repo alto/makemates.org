@@ -1,0 +1,29 @@
+.container {
+  position: absolute;
+  top: 50%;
+  width: 99%;
+  overflow: visible;
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+  top: -252px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Coustard", serif;
+  font-weight: 400;
+  font-size: 4.2em;
+}
+
+p {
+  font-family: "Arial", "Helvetica", "Gill Sans", "Lucida Grande", "Verdana", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
